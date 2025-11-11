@@ -3,11 +3,11 @@ This page informs you of our policies regarding the collection, use, and disclos
 
 
 ## Brief overview of our commitment to privacy
-At Lilucat, we believe that the less information we know about you, the better. After all, it is impossible to lose, misuse, or abuse information we don't have.
+At TheApp, we believe that the less information we know about you, the better. After all, it is impossible to lose, misuse, or abuse information we don't have.
 
 
 ## Personal Data
-We don't collect and don't have access to the personal data that you save in StopSwipe by Lilucat. Everything you do is saved locally on your device and never shared with anyone even with us. When you use our software we may record some usage analytics, subscription validation, and crash logs. The sole purpose of this data is to help us make better decisions on where to Storage Cleaner by Lilucat our efforts and improve our software. You provide some data directly, such as when you contact us for support. Such data is limited to your email address only.
+We don't collect and don't have access to the personal data that you save in Background Remover by TheApp. Everything you do is saved locally on your device and never shared with anyone even with us. When you use our software we may record some usage analytics, subscription validation, and crash logs. The sole purpose of this data is to help us make better decisions on where to Background Remover by TheApp our efforts and improve our software. You provide some data directly, such as when you contact us for support. Such data is limited to your email address only.
 
 
 ## Subscription validation
@@ -46,7 +46,7 @@ We use Crashlytics to collect and manage this data.
 
 
 ## Any questions?
-If you have any questions at all, about your data or any other query, kindly contact us at support@lilucat.com. We are happy to answer everything.
+If you have any questions at all, about your data or any other query, kindly contact us at support@theapp.biz. We are happy to answer everything.
 
 
 Your complete satisfaction is our number one priority. Please tell us if anything falls short of your expectations so we can actually do something about it, regardless of these rules. Nothing is set in stone, and we are open to making adjustments.
