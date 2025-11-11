@@ -1,1 +1,1 @@
-# stopswipe.theapp.biz
+# backgroundremover.theapp.biz
