@@ -7,7 +7,7 @@ At TheApp, we believe that the less information we know about you, the better. A
 
 
 ## Personal Data
-We don't collect and don't have access to the personal data that you save in Free Wave by TheApp. Everything you do is saved locally on your device and never shared with anyone even with us. When you use our software we may record some usage analytics, subscription validation, and crash logs. The sole purpose of this data is to help us make better decisions on where to Background Remover by TheApp our efforts and improve our software. You provide some data directly, such as when you contact us for support. Such data is limited to your email address only.
+We don't collect and don't have access to the personal data that you save in Website Blocker by TheApp. Everything you do is saved locally on your device and never shared with anyone even with us. When you use our software we may record some usage analytics, subscription validation, and crash logs. The sole purpose of this data is to help us make better decisions on where to Background Remover by TheApp our efforts and improve our software. You provide some data directly, such as when you contact us for support. Such data is limited to your email address only.
 
 
 ## Subscription validation
